@@ -19,7 +19,7 @@ Graphics
   
   Will have a story with a history.
   
-  Origional graphics and music.
+  Original graphics and music.
 
 Sample Projects:
 https://github.com/falltergeist/falltergeist
